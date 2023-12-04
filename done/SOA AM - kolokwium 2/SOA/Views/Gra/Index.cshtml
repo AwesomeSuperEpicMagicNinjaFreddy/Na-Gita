@@ -1,0 +1,21 @@
+﻿@model ICollection<ViewModels.ViewModels.GraVm>
+
+    <table>
+        <tr>
+        <th>Id</th>
+        <th>Tytul</th>
+        <th>Rok Wydania</th>
+        <th>Wydawca</th>
+        </tr>
+        @foreach (var gra in @Model){
+            <tr>
+                <th>@gra.Id</th>
+             <th>@gra.Tytul</th>
+                <th>@gra.RokWydania</th>
+                <th>@gra.Wydawnictwo</th>
+                <th> <a asp-controller="Gra" asp-action="Remove" asp-route-Id=@gra.Id>Usun</a></th>
+		        <th> <a asp-controller="Gra" asp-action="Update" asp-route-Id=@gra.Id>Update</a></th>
+
+            </tr>
+        }
+    </table>

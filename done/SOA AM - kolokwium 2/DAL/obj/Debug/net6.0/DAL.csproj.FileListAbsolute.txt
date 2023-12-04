@@ -1,0 +1,60 @@
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\DAL\bin\Debug\net6.0\DAL.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\DAL\bin\Debug\net6.0\DAL.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\DAL\bin\Debug\net6.0\Model.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\DAL\bin\Debug\net6.0\Model.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\DAL\obj\Debug\net6.0\DAL.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\DAL\obj\Debug\net6.0\DAL.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\DAL\bin\Debug\net6.0\DAL.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\DAL\bin\Debug\net6.0\DAL.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\DAL\bin\Debug\net6.0\Model.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\DAL\bin\Debug\net6.0\Model.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\DAL\obj\Debug\net6.0\DAL.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\DAL\obj\Debug\net6.0\DAL.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\DAL\obj\Debug\net6.0\DAL.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\DAL\obj\Debug\net6.0\DAL.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\DAL\bin\Debug\net6.0\DAL.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\DAL\bin\Debug\net6.0\DAL.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\DAL\bin\Debug\net6.0\Model.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\DAL\bin\Debug\net6.0\Model.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\DAL\bin\Debug\net6.0\Model.dll
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\DAL\bin\Debug\net6.0\Model.pdb
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\DAL\obj\Debug\net6.0\ref\DAL.dll

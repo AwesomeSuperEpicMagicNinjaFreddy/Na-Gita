@@ -1,0 +1,57 @@
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\Services\bin\Debug\net6.0\Services.deps.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\Services\bin\Debug\net6.0\Services.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\Services\bin\Debug\net6.0\Services.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\Services\bin\Debug\net6.0\DAL.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\Services\bin\Debug\net6.0\Model.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\Services\bin\Debug\net6.0\ViewModels.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\Services\bin\Debug\net6.0\DAL.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\Services\bin\Debug\net6.0\Model.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\Services\bin\Debug\net6.0\ViewModels.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\Services\obj\Debug\net6.0\Services.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\Services\obj\Debug\net6.0\refint\Services.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\Services\obj\Debug\net6.0\Services.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\Services\obj\Debug\net6.0\ref\Services.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\Services\bin\Debug\net6.0\Services.deps.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\Services\bin\Debug\net6.0\Services.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\Services\bin\Debug\net6.0\Services.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\Services\bin\Debug\net6.0\DAL.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\Services\bin\Debug\net6.0\Model.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\Services\bin\Debug\net6.0\ViewModels.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\Services\bin\Debug\net6.0\DAL.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\Services\bin\Debug\net6.0\Model.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\Services\bin\Debug\net6.0\ViewModels.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\Services\obj\Debug\net6.0\Services.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\Services\obj\Debug\net6.0\refint\Services.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\Services\obj\Debug\net6.0\Services.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\Services\obj\Debug\net6.0\ref\Services.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\Services\bin\Debug\net6.0\Services.deps.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\Services\bin\Debug\net6.0\Services.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\Services\bin\Debug\net6.0\Services.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\Services\bin\Debug\net6.0\DAL.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\Services\bin\Debug\net6.0\Model.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\Services\bin\Debug\net6.0\ViewModels.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\Services\bin\Debug\net6.0\DAL.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\Services\bin\Debug\net6.0\Model.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\Services\bin\Debug\net6.0\ViewModels.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\Services\obj\Debug\net6.0\Services.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\Services\obj\Debug\net6.0\refint\Services.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\Services\obj\Debug\net6.0\Services.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\Services\obj\Debug\net6.0\ref\Services.dll

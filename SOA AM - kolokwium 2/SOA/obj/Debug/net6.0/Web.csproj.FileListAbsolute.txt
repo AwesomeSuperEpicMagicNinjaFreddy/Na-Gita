@@ -1,0 +1,211 @@
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\appsettings.Development.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\appsettings.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Web.staticwebassets.runtime.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Web.exe
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Web.deps.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Web.runtimeconfig.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Web.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Web.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\DAL.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Model.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Services.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\ViewModels.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\DAL.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Model.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Services.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\ViewModels.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\obj\Debug\net6.0\Web.csproj.AssemblyReference.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\obj\Debug\net6.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\obj\Debug\net6.0\Web.AssemblyInfoInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\obj\Debug\net6.0\Web.AssemblyInfo.cs
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\obj\Debug\net6.0\Web.csproj.CoreCompileInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\obj\Debug\net6.0\Web.MvcApplicationPartsAssemblyInfo.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\obj\Debug\net6.0\Web.RazorAssemblyInfo.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\obj\Debug\net6.0\Web.RazorAssemblyInfo.cs
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\obj\Debug\net6.0\staticwebassets.build.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\obj\Debug\net6.0\staticwebassets.development.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\obj\Debug\net6.0\scopedcss\bundle\Web.styles.css
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\obj\Debug\net6.0\Web.csproj.CopyComplete
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\obj\Debug\net6.0\Web.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\obj\Debug\net6.0\refint\Web.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\obj\Debug\net6.0\Web.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\obj\Debug\net6.0\Web.genruntimeconfig.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\obj\Debug\net6.0\ref\Web.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Castle.Core.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Humanizer.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\obj\Debug\net6.0\Web.csproj.AssemblyReference.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\obj\Debug\net6.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\obj\Debug\net6.0\Web.AssemblyInfoInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\obj\Debug\net6.0\Web.AssemblyInfo.cs
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\obj\Debug\net6.0\Web.csproj.CoreCompileInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\obj\Debug\net6.0\Web.MvcApplicationPartsAssemblyInfo.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\obj\Debug\net6.0\Web.RazorAssemblyInfo.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\obj\Debug\net6.0\Web.RazorAssemblyInfo.cs
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\obj\Debug\net6.0\Web.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\obj\Debug\net6.0\refint\Web.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\obj\Debug\net6.0\Web.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\appsettings.Development.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\appsettings.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Web.staticwebassets.runtime.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Web.exe
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Web.deps.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Web.runtimeconfig.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Web.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Web.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\AutoMapper.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Castle.Core.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Humanizer.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\DAL.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Model.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Services.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\ViewModels.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\DAL.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Model.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\Services.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\bin\Debug\net6.0\ViewModels.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\obj\Debug\net6.0\staticwebassets.build.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\obj\Debug\net6.0\staticwebassets.development.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\obj\Debug\net6.0\scopedcss\bundle\Web.styles.css
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\obj\Debug\net6.0\Web.csproj.CopyComplete
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\obj\Debug\net6.0\Web.genruntimeconfig.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\SOA\obj\Debug\net6.0\ref\Web.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\obj\Debug\net6.0\Web.csproj.AssemblyReference.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\obj\Debug\net6.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\obj\Debug\net6.0\Web.AssemblyInfoInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\obj\Debug\net6.0\Web.AssemblyInfo.cs
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\obj\Debug\net6.0\Web.csproj.CoreCompileInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\obj\Debug\net6.0\Web.MvcApplicationPartsAssemblyInfo.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\obj\Debug\net6.0\Web.RazorAssemblyInfo.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\obj\Debug\net6.0\Web.RazorAssemblyInfo.cs
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\obj\Debug\net6.0\Web.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\obj\Debug\net6.0\refint\Web.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\obj\Debug\net6.0\Web.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\appsettings.Development.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\appsettings.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Web.staticwebassets.runtime.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Web.exe
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Web.deps.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Web.runtimeconfig.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Web.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Web.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\AutoMapper.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Castle.Core.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Humanizer.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\DAL.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Model.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Services.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\ViewModels.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\DAL.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Model.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\Services.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\bin\Debug\net6.0\ViewModels.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\obj\Debug\net6.0\staticwebassets.build.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\obj\Debug\net6.0\staticwebassets.development.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\obj\Debug\net6.0\scopedcss\bundle\Web.styles.css
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\obj\Debug\net6.0\Web.csproj.CopyComplete
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\obj\Debug\net6.0\Web.genruntimeconfig.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\SOA\obj\Debug\net6.0\ref\Web.dll

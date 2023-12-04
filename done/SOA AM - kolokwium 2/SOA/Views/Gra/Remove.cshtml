@@ -1,0 +1,23 @@
+﻿@model IList<ViewModels.ViewModels.GraVm>
+<table>
+	<tr>
+		<th>Id</th>
+		<th>Marka</th>
+		<th>Model</th>
+		<th>RokProdukcji</th>
+		<th>Usun</th>
+		<th>Update</th>
+	</tr>
+	@foreach (var sam in @Model)
+	{
+		<tr>
+			<th>@sam.Id</th>
+			<th>@sam.Tytul</th>
+			<th>@sam.RokWydania</th>
+			<th>@sam.Wydawnictwo</th>
+			<th> <a asp-controller="Gra" asp-action="Remove" asp-route-Id=@sam.Id>Usun</a></th>
+			<th> <a asp-controller="Gra" asp-action="Update" asp-route-Id=@sam.Id>Update</a></th>
+		</tr>
+
+	}
+</table>

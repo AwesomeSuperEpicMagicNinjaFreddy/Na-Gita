@@ -1,0 +1,60 @@
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\ViewModels\bin\Debug\net6.0\ViewModels.deps.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\ViewModels\bin\Debug\net6.0\ViewModels.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\ViewModels\bin\Debug\net6.0\ViewModels.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\ViewModels\bin\Debug\net6.0\Model.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\ViewModels\bin\Debug\net6.0\Model.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\ViewModels\obj\Debug\net6.0\ViewModels.csproj.AssemblyReference.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\ViewModels\obj\Debug\net6.0\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\ViewModels\obj\Debug\net6.0\ViewModels.AssemblyInfoInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\ViewModels\obj\Debug\net6.0\ViewModels.AssemblyInfo.cs
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\ViewModels\obj\Debug\net6.0\ViewModels.csproj.CoreCompileInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\ViewModels\obj\Debug\net6.0\ViewModels.csproj.CopyComplete
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\ViewModels\obj\Debug\net6.0\ViewModels.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\ViewModels\obj\Debug\net6.0\refint\ViewModels.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\ViewModels\obj\Debug\net6.0\ViewModels.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w7\SOA\ViewModels\obj\Debug\net6.0\ref\ViewModels.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\ViewModels\bin\Debug\net6.0\ViewModels.deps.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\ViewModels\bin\Debug\net6.0\ViewModels.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\ViewModels\bin\Debug\net6.0\ViewModels.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\ViewModels\bin\Debug\net6.0\Model.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\ViewModels\bin\Debug\net6.0\Model.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\ViewModels\obj\Debug\net6.0\ViewModels.csproj.AssemblyReference.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\ViewModels\obj\Debug\net6.0\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\ViewModels\obj\Debug\net6.0\ViewModels.AssemblyInfoInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\ViewModels\obj\Debug\net6.0\ViewModels.AssemblyInfo.cs
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\ViewModels\obj\Debug\net6.0\ViewModels.csproj.CoreCompileInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\ViewModels\obj\Debug\net6.0\ViewModels.csproj.CopyComplete
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\ViewModels\obj\Debug\net6.0\ViewModels.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\ViewModels\obj\Debug\net6.0\refint\ViewModels.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\ViewModels\obj\Debug\net6.0\ViewModels.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\w8\SOA AM\ViewModels\obj\Debug\net6.0\ref\ViewModels.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\ViewModels\bin\Debug\net6.0\ViewModels.deps.json
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\ViewModels\bin\Debug\net6.0\ViewModels.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\ViewModels\bin\Debug\net6.0\ViewModels.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\ViewModels\bin\Debug\net6.0\Model.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\ViewModels\bin\Debug\net6.0\Model.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\ViewModels\obj\Debug\net6.0\ViewModels.csproj.AssemblyReference.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\ViewModels\obj\Debug\net6.0\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\ViewModels\obj\Debug\net6.0\ViewModels.AssemblyInfoInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\ViewModels\obj\Debug\net6.0\ViewModels.AssemblyInfo.cs
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\ViewModels\obj\Debug\net6.0\ViewModels.csproj.CoreCompileInputs.cache
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\ViewModels\obj\Debug\net6.0\ViewModels.csproj.CopyComplete
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\ViewModels\obj\Debug\net6.0\ViewModels.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\ViewModels\obj\Debug\net6.0\refint\ViewModels.dll
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\ViewModels\obj\Debug\net6.0\ViewModels.pdb
+D:\IISI\-=laboratoria=-\Aplikacje serwerowe\k2\SOA AM\ViewModels\obj\Debug\net6.0\ref\ViewModels.dll
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\ViewModels\obj\Debug\net6.0\ViewModels.csproj.AssemblyReference.cache
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\ViewModels\obj\Debug\net6.0\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\ViewModels\obj\Debug\net6.0\ViewModels.AssemblyInfoInputs.cache
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\ViewModels\obj\Debug\net6.0\ViewModels.AssemblyInfo.cs
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\ViewModels\obj\Debug\net6.0\ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\ViewModels\obj\Debug\net6.0\ViewModels.dll
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\ViewModels\obj\Debug\net6.0\refint\ViewModels.dll
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\ViewModels\obj\Debug\net6.0\ViewModels.pdb
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\ViewModels\bin\Debug\net6.0\ViewModels.deps.json
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\ViewModels\bin\Debug\net6.0\ViewModels.dll
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\ViewModels\bin\Debug\net6.0\ViewModels.pdb
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\ViewModels\bin\Debug\net6.0\Model.dll
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\ViewModels\bin\Debug\net6.0\Model.pdb
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\ViewModels\obj\Debug\net6.0\ViewModels.csproj.CopyComplete
+C:\Users\domin\Desktop\Takie\Studia\AWWW\Nowy folder\Termin3\2\SOA AM - kolokwium 2\ViewModels\obj\Debug\net6.0\ref\ViewModels.dll
