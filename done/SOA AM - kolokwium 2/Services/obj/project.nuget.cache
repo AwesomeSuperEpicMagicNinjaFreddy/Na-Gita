@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iHKtdKmnlX58TNrSxKfKObmpBIcKpL8jFztlnTHbDjvWdLsvq9/0y4S0AEwzJvBLNLbn2pET90T0+vLZX+eI2A==",
+  "dgSpecHash": "XslzO+GPDXp/FuO7b17Mdcq4HjFGoa6Mnoumy6AdJ3K7OhmJ4ZwSiSHJQsfeuRovVWDzKhKIVknCarTcakmxlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\domin\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\domin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

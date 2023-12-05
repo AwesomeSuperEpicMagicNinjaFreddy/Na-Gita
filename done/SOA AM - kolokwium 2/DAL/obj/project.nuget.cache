@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "acz7rTlpXt6J3mzTa9nqSOGpeqKvBshel2/gqUt13os1kJ/6kxm9GNxYO44fv048LiEDOUnrfnELhI6MgVAeXw==",
+  "dgSpecHash": "JjjylsB/O86XCc8DkO5XJCw54Kh8KhObBfqSUMbIpBAxeqMm9c14obRIIu72WmPY+7QsPSfBohf0OIRVWOpSHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\domin\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\domin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

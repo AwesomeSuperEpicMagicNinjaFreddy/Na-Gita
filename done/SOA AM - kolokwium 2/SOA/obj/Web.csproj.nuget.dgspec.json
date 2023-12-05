@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\SOA\\Web.csproj": {}
+    "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\SOA\\Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\DAL\\DAL.csproj": {
+    "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Model\\Model.csproj"
+              "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Model\\Model.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Model\\Model.csproj": {
+    "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Model\\Model.csproj",
+        "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Model\\obj\\",
+        "outputPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -132,14 +132,14 @@
         }
       }
     },
-    "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Services\\Services.csproj": {
+    "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Services\\obj\\",
+        "outputPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -156,14 +156,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\DAL\\DAL.csproj"
+              "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\DAL\\DAL.csproj"
               },
-              "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Model\\Model.csproj"
+              "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Model\\Model.csproj"
               },
-              "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\ViewModels\\ViewModels.csproj": {
-                "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\ViewModels\\ViewModels.csproj"
+              "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\ViewModels\\ViewModels.csproj": {
+                "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\ViewModels\\ViewModels.csproj"
               }
             }
           }
@@ -207,14 +207,14 @@
         }
       }
     },
-    "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\SOA\\Web.csproj": {
+    "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\SOA\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\SOA\\Web.csproj",
+        "projectUniqueName": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\SOA\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\SOA\\Web.csproj",
+        "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\SOA\\Web.csproj",
         "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\SOA\\obj\\",
+        "outputPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\SOA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -231,17 +231,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\DAL\\DAL.csproj"
+              "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\DAL\\DAL.csproj"
               },
-              "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Model\\Model.csproj"
+              "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Model\\Model.csproj"
               },
-              "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Services\\Services.csproj"
+              "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Services\\Services.csproj"
               },
-              "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\ViewModels\\ViewModels.csproj": {
-                "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\ViewModels\\ViewModels.csproj"
+              "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\ViewModels\\ViewModels.csproj": {
+                "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\ViewModels\\ViewModels.csproj"
               }
             }
           }
@@ -294,14 +294,14 @@
         }
       }
     },
-    "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\ViewModels\\ViewModels.csproj": {
+    "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\ViewModels\\ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\ViewModels\\ViewModels.csproj",
+        "projectUniqueName": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\ViewModels\\ViewModels.csproj",
         "projectName": "ViewModels",
-        "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\ViewModels\\ViewModels.csproj",
+        "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\ViewModels\\ViewModels.csproj",
         "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\ViewModels\\obj\\",
+        "outputPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -318,8 +318,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Model\\Model.csproj"
+              "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Model\\Model.csproj"
               }
             }
           }

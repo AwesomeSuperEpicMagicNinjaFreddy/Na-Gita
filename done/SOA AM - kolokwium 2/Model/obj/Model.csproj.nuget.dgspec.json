@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Model\\Model.csproj": {}
+    "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Model\\Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Model\\Model.csproj": {
+    "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Model\\Model.csproj",
+        "projectPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\2\\SOA AM - kolokwium 2\\Model\\obj\\",
+        "outputPath": "C:\\Users\\domin\\Desktop\\Takie\\Studia\\AWWW\\Nowy folder\\Termin3\\Nowy folder\\Na Gita\\done\\SOA AM - kolokwium 2\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config",

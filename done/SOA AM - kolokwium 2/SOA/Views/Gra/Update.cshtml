@@ -1,5 +1,12 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model ViewModels.ViewModels.GraVm
+
+<form method="Post" asp-action="Index">
+    <label asp-for="Tytul">Tytul</label>
+    <input asp-for="Tytul">
+    <label asp-for="RokWydania">Rok Wydania</label>
+    <input asp-for="RokWydania">
+    <label asp-for="Wydawnictwo">Wydawnictwo</label>
+    <input asp-for="Wydawnictwo">
+    <button type="submit">Zamien</button>
+</form>
+

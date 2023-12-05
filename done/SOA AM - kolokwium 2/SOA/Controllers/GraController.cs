@@ -36,7 +36,7 @@ namespace Web.Controllers
             var wynik = _gra.GetGry();
             return View(wynik);
         }
-        [HttpPost]
+        [HttpGet]
         public IActionResult Remove(int Id)
         {
             _gra.Remove(Id);
@@ -44,7 +44,7 @@ namespace Web.Controllers
             Index();
             return View(wynik);
         }
-        [HttpPost]
+        [HttpGet]
         public IActionResult Update(int Id)
         {
             var wynik = _gra.Get(Id);
